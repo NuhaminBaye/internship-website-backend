@@ -230,10 +230,8 @@ FRONTEND_URL=http://localhost:3000
 4. Add tests if applicable
 5. Submit a pull request
 
-## License
 
-This project is licensed under the MIT License.
 
 ## Support
 
-For support, email support@internshipplatform.com or create an issue in the repository.
+For support, email nuhaminbaye95@gmail.com or create an issue in the repository.
